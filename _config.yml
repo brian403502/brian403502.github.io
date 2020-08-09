@@ -24,8 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   병구의 어기여차 github blog 만들기
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "brian403502.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 업슴
-github_username:  jekyll
+#twitter_username: 업슴
+github_username: brian403502
 
 # Build settings
 theme: minima
